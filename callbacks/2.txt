@@ -1,0 +1,4 @@
+content
+of
+abc.txt
+file
